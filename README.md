@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JoaoPNobrega?tab=repositories">Explorar projetos ↗</a>
+  <a href="https://jpnobrega.me">Conheça meu portfólio ↗</a>
 </p>
 
 ---
@@ -28,13 +28,9 @@ Por aqui você encontra experimentos de front-end, efeitos de interface e projet
   <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&amp;logo=css&amp;logoColor=639" alt="CSS" />
 </p>
 
-### Alguns projetos para conhecer
+### Meu portfólio
 
-| Projeto | O que você encontra |
-| :--- | :--- |
-| [**WebDesign ↗**](https://github.com/JoaoPNobrega/WebDesign) | Crachá 3D interativo com física, cordão e arraste, feito em React e TypeScript. |
-| [**Front-End-Effects ↗**](https://github.com/JoaoPNobrega/Front-End-Effects) | Coleção organizada de animações, backgrounds, componentes e efeitos de texto. |
-| [**Pokemon ↗**](https://github.com/JoaoPNobrega/Pokemon) | Projeto web com Next.js e TypeScript. |
+[**jpnobrega.me ↗**](https://jpnobrega.me)
 
 <br />
 
